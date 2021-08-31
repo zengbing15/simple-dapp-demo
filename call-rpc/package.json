@@ -1,0 +1,14 @@
+{
+  "name": "dapp-course",
+  "version": "0.0.1",
+  "description": "",
+  "main": "1-rpc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zengbing",
+  "license": "MIT",
+  "dependencies": {
+    "@ckb-lumos/rpc": "^0.16.0"
+  }
+}

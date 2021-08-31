@@ -1,0 +1,21 @@
+{
+  "name": "build-tx",
+  "version": "0.0.1",
+  "description": "This demo is used to build tx and send the tx to CKB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js" 
+  },
+  "author": "zengbing",
+  "license": "MIT",
+  "dependencies": {
+    "@ckb-lumos/common-scripts": "^0.16.0",
+    "@ckb-lumos/config-manager": "^0.16.0",
+    "@ckb-lumos/hd": "^0.16.0",
+    "@ckb-lumos/helpers": "^0.16.0",
+    "@ckb-lumos/indexer": "^0.16.0",
+    "@ckb-lumos/rpc": "^0.16.0",
+    "ckb-js-toolkit": "^0.10.2"
+  }
+}
